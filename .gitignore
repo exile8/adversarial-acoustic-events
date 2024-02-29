@@ -128,6 +128,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Data
+Data/
+
+# Models
+Weights/
+
 # Spyder project settings
 .spyderproject
 .spyproject

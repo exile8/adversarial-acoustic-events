@@ -130,6 +130,7 @@ venv.bak/
 
 # Data
 Data/
+Samples/
 
 # Models
 Weights/
